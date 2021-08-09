@@ -67,6 +67,7 @@ Evaluation
 ![Screen Shot 2021-08-09 at 11 57 56 AM](https://user-images.githubusercontent.com/80358062/128736655-e7d3bdf1-ff5a-412b-9259-7e9cf546f212.png)
 
 - Attempt number three was a mixture of these steps. I decided to keep the EIN column and dropped NAME and SPECIAL_CONSIDERATIONS.
+
 ![Screen Shot 2021-08-09 at 11 59 26 AM](https://user-images.githubusercontent.com/80358062/128736895-e45a50c7-f722-4897-b7ae-ec8e0dbbc806.png)
 
 I then added an additional layer and neurons
